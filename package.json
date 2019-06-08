@@ -1,0 +1,10 @@
+{
+  "name": "purescript-halogen-tachyons",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "purescript": "^0.13.0"
+  }
+}
